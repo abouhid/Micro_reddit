@@ -4,9 +4,6 @@
 * Create author's posts which have a body and a title;
 * Add comments to the posts created, witch body and title.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
 ## Built With
 
 - Ruby on Rails version 6.0
