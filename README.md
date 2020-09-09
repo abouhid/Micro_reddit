@@ -14,6 +14,10 @@
 - Ruby and Ruby on Rails installed in your machine
 - SQLite installed in your machine
 
+### Table Schema
+For the model to work properly, the associations needed to be applied as follows:
+![screenshot](./Micro_reddit.png)
+
 ### Getting Started
 ```
 Open Terminal
