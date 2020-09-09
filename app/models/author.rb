@@ -6,4 +6,5 @@ class Author < ApplicationRecord
   validates :password, format: PASSWORD_REQUIREMENTS
   validates_associated :posts, :comments
   has_many :posts
+  has_many :comments
 end
